@@ -1,0 +1,51 @@
+facility_id,facility_name,country,region_district,facility_tier,reporting_period,focal_person,opd_attendance,suspected_malaria,tests_conducted,positive_cases,act_dispensed,severe_referred,submitted_on_time
+TA-ARU-101,Arusha Health Centre 1,Tanzania,Arusha,Dispensary,2026-08-01,M. Ndlovu,1626,346,344.0,134,134,5,True
+TA-MOS-102,Moshi Health Centre 2,Tanzania,Moshi,Dispensary,2026-08-01,M. Ndlovu,1959,417,414.0,161,161,6,True
+KE-KIB-103,Kibera Health Centre 3,Kenya,Kibera,Dispensary,2026-08-01,J. Kamau,1360,289,287.0,111,111,4,True
+TA-KAR-104,Karatu Health Centre 4,Tanzania,Karatu,Dispensary,2026-08-01,M. Ndlovu,1794,382,,148,148,6,True
+TA-MOS-105,Moshi Health Centre 5,Tanzania,Moshi,Dispensary,2026-08-01,M. Ndlovu,1630,347,,134,134,5,True
+KE-KIB-106,Kibera Health Centre 6,Kenya,Kibera,Dispensary,2026-08-01,J. Kamau,1595,339,,131,131,5,True
+KE-LAN-107,Langata Health Centre 7,Kenya,Langata,Dispensary,2026-08-01,J. Kamau,1544,328,326.0,127,127,5,True
+TA-ARU-108,Arusha Health Centre 8,Tanzania,Arusha,Health Centre,2026-08-01,M. Ndlovu,621,132,131.0,51,51,2,False
+KE-MAT-109,Mathare Health Centre 9,Kenya,Mathare,Health Centre,2026-08-01,J. Kamau,966,205,203.0,79,79,3,True
+KE-KIB-1010,Kibera Health Centre 10,Kenya,Kibera,Health Centre,2026-08-01,J. Kamau,1738,370,368.0,143,143,6,True
+UG-LIR-1011,Lira Health Centre 11,Uganda,Lira,Dispensary,2026-08-01,S. Okello,830,176,175.0,197,68,2,True
+KE-MAT-1012,Mathare Health Centre 12,Kenya,Mathare,Dispensary,2026-08-01,J. Kamau,1982,422,419.0,450,163,6,True
+KE-MAT-1013,Mathare Health Centre 13,Kenya,Mathare,Dispensary,2026-08-01,J. Kamau,587,125,124.0,151,48,2,True
+UG-LIR-1014,Lira Health Centre 14,Uganda,Lira,Health Centre,2026-08-01,S. Okello,1896,403,400.0,441,155,6,True
+KE-LAN-1015,Langata Health Centre 15,Kenya,Langata,Health Centre,2026-08-01,J. Kamau,1623,345,343.0,133,133,5,False
+TA-ARU-1016,Arusha Health Centre 16,Tanzania,Arusha,Health Centre,2026-08-01,M. Ndlovu,1371,292,290.0,113,113,4,True
+KE-LAN-1017,Langata Health Centre 17,Kenya,Langata,Health Centre,2026-08-01,J. Kamau,630,134,133.0,51,51,2,False
+TA-KAR-1018,Karatu Health Centre 18,Tanzania,Karatu,Health Centre,2026-08-01,M. Ndlovu,1832,390,388.0,151,151,6,False
+TA-ARU-1019,Arusha Health Centre 19,Tanzania,Arusha,Dispensary,2026-08-01,M. Ndlovu,1269,270,268.0,104,104,4,True
+KE-LAN-1020,Langata Health Centre 20,Kenya,Langata,Dispensary,2026-08-01,J. Kamau,843,179,178.0,69,69,2,False
+UG-GUL-1021,Gulu Health Centre 21,Uganda,Gulu,Dispensary,2026-08-01,S. Okello,1937,412,409.0,159,397,6,True
+KE-MAT-1022,Mathare Health Centre 22,Kenya,Mathare,Health Centre,2026-08-01,J. Kamau,1305,277,275.0,107,267,4,True
+UG-KIT-1023,Kitgum Health Centre 23,Uganda,Kitgum,Health Centre,2026-08-01,S. Okello,885,188,187.0,72,180,3,True
+KE-MAT-1024,Mathare Health Centre 24,Kenya,Mathare,Health Centre,2026-08-01,J. Kamau,1715,365,363.0,141,352,5,True
+KE-LAN-1025,Langata Health Centre 25,Kenya,Langata,Health Centre,2026-08-01,J. Kamau,1455,309,307.0,119,297,5,True
+TA-KAR-1026,Karatu Health Centre 26,Tanzania,Karatu,Dispensary,2026-08-01,M. Ndlovu,776,165,164.0,63,157,2,True
+TA-KAR-1027,Karatu Health Centre 27,Tanzania,Karatu,Dispensary,2026-08-01,M. Ndlovu,1684,358,356.0,138,138,5,True
+TA-KAR-1028,Karatu Health Centre 28,Tanzania,Karatu,Dispensary,2026-08-01,M. Ndlovu,959,204,202.0,78,78,3,True
+KE-MAT-1029,Mathare Health Centre 29,Kenya,Mathare,Health Centre,2026-08-01,J. Kamau,1837,391,389.0,151,151,6,True
+UG-KIT-1030,Kitgum Health Centre 30,Uganda,Kitgum,Dispensary,2026-08-01,S. Okello,521,110,109.0,42,42,1,True
+TA-MOS-1031,Moshi Health Centre 31,Tanzania,Moshi,Dispensary,2026-08-01,M. Ndlovu,752,160,159.0,61,61,2,True
+KE-KIB-1032,Kibera Health Centre 32,Kenya,Kibera,Health Centre,2026-08-01,J. Kamau,1247,265,263.0,102,102,4,True
+UG-LIR-1033,Lira Health Centre 33,Uganda,Lira,Dispensary,2026-08-01,S. Okello,1356,288,286.0,111,111,4,True
+KE-LAN-1034,Langata Health Centre 34,Kenya,Langata,Health Centre,2026-08-01,J. Kamau,974,207,205.0,79,79,3,False
+KE-LAN-1035,Langata Health Centre 35,Kenya,Langata,Health Centre,2026-08-01,J. Kamau,1582,336,334.0,130,130,5,True
+UG-KIT-1036,Kitgum Health Centre 36,Uganda,Kitgum,Health Centre,2026-08-01,S. Okello,1010,215,213.0,202,83,3,True
+KE-MAT-1037,Mathare Health Centre 37,Kenya,Mathare,Dispensary,2026-08-01,J. Kamau,1999,425,422.0,400,164,6,True
+KE-LAN-1038,Langata Health Centre 38,Kenya,Langata,Health Centre,2026-08-01,J. Kamau,1199,255,253.0,98,98,4,True
+TA-KAR-1039,Karatu Health Centre 39,Tanzania,Karatu,Health Centre,2026-08-01,M. Ndlovu,1475,314,312.0,121,121,5,True
+TA-MOS-1040,Moshi Health Centre 40,Tanzania,Moshi,Health Centre,2026-08-01,M. Ndlovu,689,146,145.0,56,56,2,True
+KE-KIB-1041,Kibera Health Centre 41,Kenya,Kibera,Health Centre,2026-08-01,J. Kamau,1457,310,308.0,120,120,5,True
+KE-KIB-1042,Kibera Health Centre 42,Kenya,Kibera,Dispensary,2026-08-01,J. Kamau,1186,252,250.0,97,97,4,True
+KE-LAN-1043,Langata Health Centre 43,Kenya,Langata,Dispensary,2026-08-01,J. Kamau,1457,310,308.0,120,120,5,True
+TA-MOS-1044,Moshi Health Centre 44,Tanzania,Moshi,Dispensary,2026-08-01,M. Ndlovu,1062,226,224.0,87,87,3,True
+UG-LIR-1045,Lira Health Centre 45,Uganda,Lira,Health Centre,2026-08-01,S. Okello,1767,376,374.0,145,145,6,False
+TA-MOS-1046,Moshi Health Centre 46,Tanzania,Moshi,Dispensary,2026-08-01,M. Ndlovu,1331,283,281.0,109,109,4,True
+TA-KAR-1047,Karatu Health Centre 47,Tanzania,Karatu,Dispensary,2026-08-01,M. Ndlovu,1654,352,350.0,136,136,5,True
+TA-KAR-1048,Karatu Health Centre 48,Tanzania,Karatu,Health Centre,2026-08-01,M. Ndlovu,1146,244,242.0,94,94,3,True
+TA-MOS-1049,Moshi Health Centre 49,Tanzania,Moshi,Dispensary,2026-08-01,M. Ndlovu,520,110,109.0,42,42,1,True
+UG-LIR-1050,Lira Health Centre 50,Uganda,Lira,Dispensary,2026-08-01,S. Okello,1340,285,283.0,110,110,4,True
